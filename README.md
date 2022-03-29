@@ -7,3 +7,5 @@ This is Repository is a collection of algorithms of Numerical Methods (or Numeri
 ## Files
 - **biseccion.py**: Bisection Method.
 - **puntofijo.py**: Fixed Point Method.
+- **newton.py**: Newton-Raphson method.
+- **secante.py**: Secant Method.
