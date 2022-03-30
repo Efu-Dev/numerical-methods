@@ -9,3 +9,4 @@ This is Repository is a collection of algorithms of Numerical Methods (or Numeri
 - **puntofijo.py**: Fixed Point Method.
 - **newton.py**: Newton-Raphson method.
 - **secante.py**: Secant Method.
+- **muller.py** : Muller's Method.
