@@ -10,3 +10,4 @@ This is Repository is a collection of algorithms of Numerical Methods (or Numeri
 - **newton.py**: Newton-Raphson method.
 - **secante.py**: Secant Method.
 - **muller.py** : Muller's Method.
+- **newtonmultiple.py** : Newton's method for higher multiplicity.
